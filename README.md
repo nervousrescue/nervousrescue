@@ -1,6 +1,4 @@
 <div align='center'> 
-<i>deranged</i>
-<br>
 
 <br>
 <div align='center'>
