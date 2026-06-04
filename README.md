@@ -1,6 +1,3 @@
-<div align='center'> 
-
-<br>
 <div align='center'>
 <img src='https://files.catbox.moe/y6bd6y.png' title='made by me'
 <br>
