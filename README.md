@@ -1,5 +1,8 @@
 <div align='center'>
-<img src='https://sewerwolfx.neocities.org/graphics/graphics/gifs/2orange/8.gif' title='gross'
+ <i>dear diary, my teen angst has a body count</i>
+ <br>
+ <br>
+<img src='https://sewerwolfx.neocities.org/graphics/graphics/pngs/1red/21.gif' title='gross'
 <br>
 
 &nbsp;
