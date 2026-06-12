@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://sewerwolfx.neocities.org/graphics/graphics/gifs/1red/11.gif' title='hand'
+<img src='https://sewerwolfx.neocities.org/graphics/graphics/gifs/2orange/8.gif' title='gross'
 <br>
 
 &nbsp;
