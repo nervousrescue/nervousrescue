@@ -1,5 +1,5 @@
 <div align='center'>
- <i>dear diary, my teen angst has a body count</i>
+ <i>letting love find a way</i>
  <br>
  <br>
 <img src='https://sewerwolfx.neocities.org/graphics/graphics/pngs/1red/21.gif' title='gross'
