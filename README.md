@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='fusegif.gif' title='gross'
+<img src='https://sewerwolfx.neocities.org/graphics/graphics/gifs/15black/47.gif' title='here lies van'
 <br>
 
 &nbsp;
