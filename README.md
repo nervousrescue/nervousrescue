@@ -1,4 +1,7 @@
 <div align='center'>
+ <i>congratulations, i hate you</i>
+ <br>
+ <br>
 <img src='https://sewerwolfx.neocities.org/graphics/graphics/gifs/15black/47.gif' title='here lies van'
 <br>
 
